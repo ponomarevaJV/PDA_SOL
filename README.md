@@ -7,4 +7,4 @@
 
 [Практическая работа 1 ](https://github.com/ponomarevaJV/PDA_SOL/blob/main/ПР.%201..ipynb).
 
-[Самостоятельная работа 3](https://github.com/ponomarevaJV/PDA_SOL/blob/main/Самостоятельная_работа_3_pandas.ipynb).
+[Самостоятельная работа 3](https://github.com/ponomarevaJV/PDA_SOL/blob/main/CМ.%20№3%20.%20(3).ipynb).
