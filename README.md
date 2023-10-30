@@ -8,3 +8,5 @@
 [Практическая работа 1 ](https://github.com/ponomarevaJV/PDA_SOL/blob/main/ПР.%201..ipynb).
 
 [Самостоятельная работа 3](https://github.com/ponomarevaJV/PDA_SOL/blob/main/CМ.%20№3%20.%20(3).ipynb).
+
+[Практическая работа 2](https://github.com/ponomarevaJV/PDA_SOL/blob/main/Практическая%20работа%20№2.ipynb).
