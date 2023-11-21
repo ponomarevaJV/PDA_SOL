@@ -12,3 +12,7 @@
 [Практическая работа 2](https://github.com/ponomarevaJV/PDA_SOL/blob/main/Практическая%20работа%20№2.ipynb).
 
 [Самостаятельная работа 4](https://github.com/ponomarevaJV/PDA_SOL/blob/main/hw_4_visualisation_(1).ipynb).
+
+[Практическая работа 3 №1](https://github.com/ponomarevaJV/PDA_SOL/blob/main/ПЗ%203%20№1.ipynb).
+
+[Практическая работа 3 №2](https://github.com/ponomarevaJV/PDA_SOL/blob/main/ПЗ%203%20№%202.ipynb).
