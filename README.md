@@ -16,3 +16,5 @@
 [Практическая работа 3 №1](https://github.com/ponomarevaJV/PDA_SOL/blob/main/ПЗ%203%20№1.ipynb).
 
 [Практическая работа 3 №2](https://github.com/ponomarevaJV/PDA_SOL/blob/main/ПЗ%203%20№%202.ipynb).
+
+[Самостоятельная работа 5](https://github.com/ponomarevaJV/PDA_SOL/blob/main/Самостоятельная%20работа%20№5%20.ipynb).
