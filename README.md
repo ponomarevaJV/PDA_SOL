@@ -18,3 +18,5 @@
 [Практическая работа 3 №2](https://github.com/ponomarevaJV/PDA_SOL/blob/main/ПЗ%203%20№%202.ipynb).
 
 [Самостоятельная работа 5](https://github.com/ponomarevaJV/PDA_SOL/blob/main/Самостоятельная%20работа%20№5%20.ipynb).
+
+[Корпоративные платформы Пр.р.№1](https://github.com/ponomarevaJV/PDA_SOL/blob/main/1_1_Пр_р_.ipynb).
