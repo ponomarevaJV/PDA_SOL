@@ -24,3 +24,5 @@
 [Лабараторная работа 3.2 ](https://github.com/ponomarevaJV/PDA_SOL/blob/main/Опрос%20лб%203.2%20(Ответы)%20(1).xlsx).
 
 [Лабораторная работа 4 Частотный анализ](https://github.com/ponomarevaJV/PDA_SOL/blob/main/LB%204.ipynb).
+
+[Лабораторная работа 4.1 ETL]().
