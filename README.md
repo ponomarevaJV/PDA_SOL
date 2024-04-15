@@ -25,4 +25,4 @@
 
 [Лабораторная работа 4 Частотный анализ](https://github.com/ponomarevaJV/PDA_SOL/blob/main/LB%204.ipynb).
 
-[Лабораторная работа 4.1 ETL]().
+[Лабораторная работа 4.1 ETL](https://github.com/ponomarevaJV/PDA_SOL/blob/main/Отчёт%20по%20лб%204.1.pdf).
