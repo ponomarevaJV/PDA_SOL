@@ -29,4 +29,4 @@
 
 [Лабораторная работа 4.2 Tableau pab](https://github.com/ponomarevaJV/PDA_SOL/blob/main/Superstore%20(Ponomareva).tflx)(https://github.com/ponomarevaJV/PDA_SOL/blob/main/Postgrea.tfl)
 
-
+[Лабораторная работа 4.2 Tableau pab] (https://github.com/ponomarevaJV/PDA_SOL/blob/main/Postgrea.tfl)
