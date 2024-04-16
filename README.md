@@ -27,6 +27,6 @@
 
 [Лабораторная работа 4.1 ETL](https://github.com/ponomarevaJV/PDA_SOL/blob/main/Отчёт%20по%20лб%204.1.pdf).
 
-[Лабораторная работа 4.2 Tableau pab](https://github.com/ponomarevaJV/PDA_SOL/blob/main/Superstore%20(Ponomareva).tflx)(https://github.com/ponomarevaJV/PDA_SOL/blob/main/Postgrea.tfl)
+[Лабораторная работа 4.2 Tableau pab](https://github.com/ponomarevaJV/PDA_SOL/blob/main/Superstore%20(Ponomareva).tflx).
 
-[Лабораторная работа 4.2 Tableau pab] (https://github.com/ponomarevaJV/PDA_SOL/blob/main/Postgrea.tfl)
+[Лабораторная работа 4.2 Tableau pab](https://github.com/ponomarevaJV/PDA_SOL/blob/main/Postgrea.tfl).
