@@ -30,3 +30,5 @@
 [Лабораторная работа 4.2 Tableau pab](https://github.com/ponomarevaJV/PDA_SOL/blob/main/Superstore%20(Ponomareva).tflx).
 
 [Лабораторная работа 4.2 Tableau pab](https://github.com/ponomarevaJV/PDA_SOL/blob/main/Postgrea.tfl).
+
+[Лабораторная работа 5 Tableau pab](https://github.com/ponomarevaJV/PDA_SOL/blob/main/Лабараторная%205(спарк).ipynb).
