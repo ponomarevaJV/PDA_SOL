@@ -32,3 +32,5 @@
 [Лабораторная работа 4.2 Tableau pab](https://github.com/ponomarevaJV/PDA_SOL/blob/main/Postgrea.tfl).
 
 [Лабораторная работа 5 Spark](https://github.com/ponomarevaJV/PDA_SOL/blob/main/Лабараторная%205(спарк).ipynb).
+
+[Практическая работа 1.1 Программные средства сбора](https://colab.research.google.com/drive/1kopHkJSp9xzrFm46LJekmzUYuFeBro73#scrollTo=9GAtrFnh2Wmr)
