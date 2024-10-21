@@ -34,3 +34,6 @@
 [Лабораторная работа 5 Spark](https://github.com/ponomarevaJV/PDA_SOL/blob/main/Лабараторная%205(спарк).ipynb).
 
 [Практическая работа 1.1 Программные средства сбора](https://colab.research.google.com/drive/1kopHkJSp9xzrFm46LJekmzUYuFeBro73#scrollTo=9GAtrFnh2Wmr)
+
+[Практическая работа 1. Прог. сред. сбор инф.].(https://github.com/ponomarevaJV/PDA_SOL/blob/main/Пр.1.(%20прог.%20сред.%20сбор%20и%20конс.%20данных).ipynb)
+
